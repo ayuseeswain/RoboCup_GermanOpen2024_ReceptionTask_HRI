@@ -1,3 +1,3 @@
-# RoboCup_GermanOpen2024_Receptionist_Task_HRI
+# RoboCup GermanOpen2024 Receptionist Task HRI
 
 In the RoboCup German Open 2024, I contributed to the 'Receptionist Task', enabling our Toyota HSR robot 'Lucy' to function as a receptionist. Lucy is now capable of recognizing and interacting with guests using state-of-the-art speech recognition technologies. Here, SpaCy NLP models were integrated to accurately extract specific information like guest names and drink preferences from conversations. To improve communication in noisy environments, a noise reduction library was incorporated to filter out background noise in audio signals. Lucy also manages introductions among multiple guests at the event, using the robot's speech recognition capabilities to facilitate communication and provide personalized introductions based on stored guest data.
